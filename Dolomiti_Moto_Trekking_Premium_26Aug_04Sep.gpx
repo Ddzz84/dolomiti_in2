@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="M365 Copilot" xmlns="http://www.topografix.com/GPX/1/1">
+<metadata><name>Dolomiti_Moto_Trekking_Premium_26Aug_04Sep</name></metadata>
+
+<wpt lat="46.467" lon="10.371"><name>Bormio Start</name></wpt>
+<wpt lat="46.528" lon="10.452"><name>Passo Stelvio</name></wpt>
+<wpt lat="46.640" lon="12.245"><name>Misurina Fuel Stop</name></wpt>
+<wpt lat="46.611" lon="12.294"><name>Parcheggio Rifugio Auronzo</name></wpt>
+<wpt lat="46.628" lon="12.312"><name>Ferrata De Luca Innerkofler</name></wpt>
+<wpt lat="46.407" lon="12.352"><name>Parcheggio Praciadelan</name></wpt>
+<wpt lat="46.423" lon="12.377"><name>Rifugio Chiggiato</name></wpt>
+<wpt lat="46.587" lon="12.722"><name>Passo Cima Sappada</name></wpt>
+<wpt lat="46.393" lon="12.607"><name>Parcheggio Giaf</name></wpt>
+<wpt lat="46.410" lon="12.618"><name>Rifugio Giaf</name></wpt>
+<wpt lat="46.349" lon="12.043"><name>Agordo Fuel Stop</name></wpt>
+<wpt lat="46.268" lon="11.965"><name>Parcheggio Frassene</name></wpt>
+<wpt lat="46.280" lon="11.959"><name>Rifugio Scarpa</name></wpt>
+<wpt lat="46.287" lon="11.975"><name>Ferrata Stella Alpina</name></wpt>
+<wpt lat="46.356" lon="12.080"><name>Passo Duran</name></wpt>
+<wpt lat="46.433" lon="11.862"><name>Passo Fedaia</name></wpt>
+<wpt lat="46.489" lon="11.811"><name>Passo Pordoi</name></wpt>
+<wpt lat="46.553" lon="11.798"><name>Passo Gardena</name></wpt>
+<wpt lat="46.506" lon="11.761"><name>Passo Sella</name></wpt>
+
+<rte><name>Giorno1_Bormio_Misurina</name>
+<rtept lat="46.467" lon="10.371"/><rtept lat="46.528" lon="10.452"/><rtept lat="46.640" lon="12.245"/><rtept lat="46.611" lon="12.294"/>
+</rte>
+
+<rte><name>Giorno2_Misurina_Chiggiato</name>
+<rtept lat="46.611" lon="12.294"/><rtept lat="46.407" lon="12.352"/><rtept lat="46.423" lon="12.377"/>
+</rte>
+
+<rte><name>Giorno3_Marmarole</name>
+<rtept lat="46.423" lon="12.377"/><rtept lat="46.423" lon="12.377"/>
+</rte>
+
+<rte><name>Giorno4_Chiggiato_Giaf</name>
+<rtept lat="46.423" lon="12.377"/><rtept lat="46.587" lon="12.722"/><rtept lat="46.393" lon="12.607"/><rtept lat="46.410" lon="12.618"/>
+</rte>
+
+<rte><name>Giorno5_Friulane</name>
+<rtept lat="46.410" lon="12.618"/><rtept lat="46.410" lon="12.618"/>
+</rte>
+
+<rte><name>Giorno6_Giaf_Scarpa</name>
+<rtept lat="46.410" lon="12.618"/><rtept lat="46.349" lon="12.043"/><rtept lat="46.268" lon="11.965"/><rtept lat="46.280" lon="11.959"/>
+</rte>
+
+<rte><name>Giorno7_Stella_Alpina</name>
+<rtept lat="46.280" lon="11.959"/><rtept lat="46.287" lon="11.975"/>
+</rte>
+
+<rte><name>Giorno8_Pale_San_Lucano</name>
+<rtept lat="46.280" lon="11.959"/><rtept lat="46.280" lon="11.959"/>
+</rte>
+
+<rte><name>Giorno9_Moiazza_Duran</name>
+<rtept lat="46.280" lon="11.959"/><rtept lat="46.356" lon="12.080"/>
+</rte>
+
+<rte><name>Giorno10_Rientro_Bormio</name>
+<rtept lat="46.356" lon="12.080"/>
+<rtept lat="46.433" lon="11.862"/>
+<rtept lat="46.489" lon="11.811"/>
+<rtept lat="46.553" lon="11.798"/>
+<rtept lat="46.506" lon="11.761"/>
+<rtept lat="46.528" lon="10.452"/>
+<rtept lat="46.467" lon="10.371"/>
+</rte>
+</gpx>

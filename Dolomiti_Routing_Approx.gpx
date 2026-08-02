@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="M365 Copilot" xmlns="http://www.topografix.com/GPX/1/1">
+<trk><name>Dolomiti Routing Approx</name><trkseg>
+<trkpt lat="46.467" lon="10.371"></trkpt>
+<trkpt lat="46.5" lon="10.41"></trkpt>
+<trkpt lat="46.528" lon="10.452"></trkpt>
+<trkpt lat="46.56" lon="10.7"></trkpt>
+<trkpt lat="46.62" lon="11.2"></trkpt>
+<trkpt lat="46.65" lon="11.7"></trkpt>
+<trkpt lat="46.64" lon="12.245"></trkpt>
+<trkpt lat="46.611" lon="12.294"></trkpt>
+<trkpt lat="46.55" lon="12.28"></trkpt>
+<trkpt lat="46.47" lon="12.33"></trkpt>
+<trkpt lat="46.407" lon="12.352"></trkpt>
+<trkpt lat="46.45" lon="12.45"></trkpt>
+<trkpt lat="46.52" lon="12.65"></trkpt>
+<trkpt lat="46.587" lon="12.722"></trkpt>
+<trkpt lat="46.5" lon="12.68"></trkpt>
+<trkpt lat="46.393" lon="12.607"></trkpt>
+<trkpt lat="46.35" lon="12.5"></trkpt>
+<trkpt lat="46.34" lon="12.25"></trkpt>
+<trkpt lat="46.349" lon="12.043"></trkpt>
+<trkpt lat="46.268" lon="11.965"></trkpt>
+<trkpt lat="46.32" lon="12.02"></trkpt>
+<trkpt lat="46.356" lon="12.08"></trkpt>
+<trkpt lat="46.4" lon="12.0"></trkpt>
+<trkpt lat="46.433" lon="11.862"></trkpt>
+<trkpt lat="46.489" lon="11.811"></trkpt>
+<trkpt lat="46.553" lon="11.798"></trkpt>
+<trkpt lat="46.506" lon="11.761"></trkpt>
+<trkpt lat="46.35" lon="11.3"></trkpt>
+<trkpt lat="46.528" lon="10.452"></trkpt>
+<trkpt lat="46.467" lon="10.371"></trkpt>
+</trkseg></trk>
+<wpt lat="46.467" lon="10.371"><name>Bormio</name></wpt>
+<wpt lat="46.528" lon="10.452"><name>Passo Stelvio</name></wpt>
+<wpt lat="46.64" lon="12.245"><name>Misurina</name></wpt>
+<wpt lat="46.611" lon="12.294"><name>Parcheggio Auronzo</name></wpt>
+<wpt lat="46.407" lon="12.352"><name>Praciadelan</name></wpt>
+<wpt lat="46.587" lon="12.722"><name>Passo Cima Sappada</name></wpt>
+<wpt lat="46.393" lon="12.607"><name>Rifugio Giaf</name></wpt>
+<wpt lat="46.349" lon="12.043"><name>Agordo</name></wpt>
+<wpt lat="46.268" lon="11.965"><name>Rifugio Scarpa</name></wpt>
+<wpt lat="46.356" lon="12.08"><name>Passo Duran</name></wpt>
+<wpt lat="46.433" lon="11.862"><name>Passo Fedaia</name></wpt>
+<wpt lat="46.489" lon="11.811"><name>Passo Pordoi</name></wpt>
+<wpt lat="46.553" lon="11.798"><name>Passo Gardena</name></wpt>
+<wpt lat="46.506" lon="11.761"><name>Passo Sella</name></wpt>
+</gpx>

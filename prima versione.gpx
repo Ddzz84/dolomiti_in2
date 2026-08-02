@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="M365 Copilot" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Giro_Dolomiti_Moto_Trekking_26Aug_04Sep</name></metadata>
+  <wpt lat="46.467" lon="10.371"><name>Bormio</name></wpt>
+  <wpt lat="46.626" lon="12.300"><name>Misurina</name></wpt>
+  <wpt lat="46.617" lon="12.305"><name>Rifugio_Lavaredo_Area</name></wpt>
+  <wpt lat="46.423" lon="12.377"><name>Rifugio_Chiggiato</name></wpt>
+  <wpt lat="46.410" lon="12.514"><name>Calalzo_di_Cadore</name></wpt>
+  <wpt lat="46.415" lon="12.581"><name>Sappada</name></wpt>
+  <wpt lat="46.395" lon="12.584"><name>Forni_di_Sopra</name></wpt>
+  <wpt lat="46.410" lon="12.618"><name>Rifugio_Giaf</name></wpt>
+  <wpt lat="46.280" lon="11.959"><name>Rifugio_Scarpa</name></wpt>
+  <wpt lat="46.349" lon="12.043"><name>Agordo</name></wpt>
+  <wpt lat="46.363" lon="12.033"><name>Frassene_Agordino</name></wpt>
+  <wpt lat="46.356" lon="12.080"><name>Passo_Duran</name></wpt>
+  <wpt lat="46.433" lon="11.862"><name>Passo_Fedaia</name></wpt>
+  <wpt lat="46.489" lon="11.811"><name>Passo_Pordoi</name></wpt>
+  <wpt lat="46.553" lon="11.798"><name>Passo_Gardena</name></wpt>
+  <wpt lat="46.528" lon="10.452"><name>Passo_Stelvio</name></wpt>
+  <rte>
+    <name>Tour_Dolomiti</name>
+    <rtept lat="46.467" lon="10.371"><name>Bormio</name></rtept>
+    <rtept lat="46.626" lon="12.300"><name>Misurina</name></rtept>
+    <rtept lat="46.423" lon="12.377"><name>Rifugio_Chiggiato</name></rtept>
+    <rtept lat="46.395" lon="12.584"><name>Forni_di_Sopra</name></rtept>
+    <rtept lat="46.410" lon="12.618"><name>Rifugio_Giaf</name></rtept>
+    <rtept lat="46.280" lon="11.959"><name>Rifugio_Scarpa</name></rtept>
+    <rtept lat="46.356" lon="12.080"><name>Passo_Duran</name></rtept>
+    <rtept lat="46.433" lon="11.862"><name>Passo_Fedaia</name></rtept>
+    <rtept lat="46.489" lon="11.811"><name>Passo_Pordoi</name></rtept>
+    <rtept lat="46.553" lon="11.798"><name>Passo_Gardena</name></rtept>
+    <rtept lat="46.528" lon="10.452"><name>Passo_Stelvio</name></rtept>
+    <rtept lat="46.467" lon="10.371"><name>Bormio</name></rtept>
+  </rte>
+</gpx>
