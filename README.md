@@ -18,6 +18,8 @@
 
 Spostamento da Bormio a Misurina o dintorni
 
+5 ore
+
 #### Moto
 
 - Bormio
@@ -32,6 +34,8 @@ Spostamento da Bormio a Misurina o dintorni
 Salita al rifugio e sistemazione.
 
 #### Pernottamento
+
+Rifugio Auronzo (100€ pagato tati-c + 100€ da dare in contanti)
 
 ---
 
@@ -52,8 +56,9 @@ EEA
 
 #### Moto e Pernottamento
 
+1 ora e mezza
 Recupero moto al Rifugio Auronzo e trasferimento verso B&B solo camera: **Lunga Via Delle Dolomiti**
-Booking
+Booking (110€ pagate da tati-d)
 
 ---
 
@@ -73,7 +78,11 @@ Booking
 
 #### Moto e Pernottamento
 
-???
+Moto 1.5 ore
+
+Rifugio Giaf o
+
+https://www.booking.com/hotel/it/albergo-diffuso-sauris-in-la-maina.it.html
 
 ---
 
