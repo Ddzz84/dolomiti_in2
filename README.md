@@ -17,6 +17,8 @@
 ## Giorno 1 • 26 Agosto
 ### Bormio → Tre Cime di Lavaredo
 
+Spostamento da Bormio a Misurina o dintorni
+
 #### Moto
 - Bormio
 - Passo Stelvio
@@ -38,6 +40,9 @@ Alternativa:
 
 ## Giorno 2 • 27 Agosto
 ### Ferrata De Luca - Innerkofler
+
+Ferrata (attacco si arriva in moto)
+7 ore
 
 #### Ferrata
 Percorso ad anello:
