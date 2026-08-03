@@ -1,25 +1,25 @@
 # Giro delle Dolomiti in Moto, Trekking e Ferrate
+
 ## 26 Agosto - 4 Settembre
 
 ### Filosofia del viaggio
+
 - Partenza e arrivo a Bormio
 - Trasferimenti esclusivamente in moto
-- Nessun utilizzo di taxi o navette
-- Nessun recupero complesso del mezzo
-- Pernottamenti in rifugio
-- Ferrate e trekking giornalieri ad anello
-- Priorità alle aree meno frequentate delle Dolomiti
+- Avventura e divertimento in coppia
 
 ---
 
 # Itinerario Completo
 
 ## Giorno 1 • 26 Agosto
+
 ### Bormio → Tre Cime di Lavaredo
 
 Spostamento da Bormio a Misurina o dintorni
 
 #### Moto
+
 - Bormio
 - Passo Stelvio
 - Val Pusteria
@@ -28,72 +28,57 @@ Spostamento da Bormio a Misurina o dintorni
 - Parcheggio Rifugio Auronzo
 
 #### Attività
+
 Salita al rifugio e sistemazione.
 
 #### Pernottamento
-🏔️ Rifugio Lavaredo
-
-Alternativa:
-🏔️ Rifugio Locatelli
 
 ---
 
 ## Giorno 2 • 27 Agosto
+
 ### Ferrata De Luca - Innerkofler
 
 Ferrata (attacco si arriva in moto)
 7 ore
 
 #### Ferrata
-Percorso ad anello:
 
-- Rifugio Lavaredo
-- Forcella Lavaredo
-- Monte Paterno
-- Gallerie storiche
-- Rifugio Locatelli
-- Rientro al Rifugio Lavaredo
+Percorso da xml
 
 #### Difficoltà
+
 EEA
 
-#### Moto
-Recupero moto al Rifugio Auronzo e trasferimento verso il Cadore:
+#### Moto e Pernottamento
 
-- Misurina
-- Auronzo
-- Calalzo
-- Praciadelan
-
-#### Pernottamento
-🏔️ Rifugio Chiggiato
-
-Il Chiggiato è uno dei punti di riferimento della Marmarole Runde, itinerario ideato per chi cerca luoghi autentici e poco frequentati. 【1-da2304】【2-bdf8b2】
+Recupero moto al Rifugio Auronzo e trasferimento verso B&B solo camera: **Lunga Via Delle Dolomiti**
+Booking
 
 ---
 
 ## Giorno 3 • 28 Agosto
+
 ### Marmarole Nord
 
 #### Trekking ad anello
 
 - Rifugio Chiggiato
 - Col Negro
-- Forcella Jau de la Tana
-- Tratti panoramici delle Marmarole
-- Rientro al Rifugio Chiggiato
+- Altro se abbiamo voglia
 
 #### Durata
-7-8 ore
 
-#### Pernottamento
-🏔️ Rifugio Chiggiato
+6 ore
 
-Le Marmarole sono considerate tra i gruppi più selvaggi e meno frequentati delle Dolomiti. 【3-cd3c02】【1-da2304】
+#### Moto e Pernottamento
+
+???
 
 ---
 
 ## Giorno 4 • 29 Agosto
+
 ### Marmarole Sud
 
 #### Trekking ad anello
@@ -105,9 +90,11 @@ Le Marmarole sono considerate tra i gruppi più selvaggi e meno frequentati dell
 - Rientro al Rifugio Chiggiato
 
 #### Durata
+
 7-9 ore
 
 #### Pernottamento
+
 🏔️ Rifugio Chiggiato
 
 ✅ Moto sempre disponibile al parcheggio di Praciadelan.
@@ -115,21 +102,25 @@ Le Marmarole sono considerate tra i gruppi più selvaggi e meno frequentati dell
 ---
 
 ## Giorno 5 • 30 Agosto
+
 ### Cadore → Dolomiti Friulane
 
 #### Discesa
+
 - Rifugio Chiggiato
 - Praciadelan
 
 #### Recupero Moto
 
 #### Moto
+
 - Calalzo di Cadore
 - Sappada
 - Passo Cima Sappada
 - Forni di Sopra
 
 #### Pernottamento
+
 🏔️ Rifugio Giaf
 
 Situato nel Parco Naturale delle Dolomiti Friulane. 【4-b6588c】【5-c3c906】
@@ -137,6 +128,7 @@ Situato nel Parco Naturale delle Dolomiti Friulane. 【4-b6588c】【5-c3c906】
 ---
 
 ## Giorno 6 • 31 Agosto
+
 ### Anello del Cridola
 
 #### Trekking
@@ -148,9 +140,11 @@ Situato nel Parco Naturale delle Dolomiti Friulane. 【4-b6588c】【5-c3c906】
 - Rifugio Giaf
 
 #### Durata
+
 7-8 ore
 
 #### Pernottamento
+
 🏔️ Rifugio Giaf
 
 Le Dolomiti Friulane sono tra le zone più isolate e meno antropizzate dell'intero arco dolomitico. 【4-b6588c】【6-68c2d7】
@@ -158,6 +152,7 @@ Le Dolomiti Friulane sono tra le zone più isolate e meno antropizzate dell'inte
 ---
 
 ## Giorno 7 • 1 Settembre
+
 ### Friulane → Agner
 
 #### Moto
@@ -170,6 +165,7 @@ Le Dolomiti Friulane sono tra le zone più isolate e meno antropizzate dell'inte
 #### Salita al Rifugio
 
 #### Pernottamento
+
 🏔️ Rifugio Scarpa Gurekian
 
 Rifugio noto per la posizione tranquilla e lontana dai principali percorsi turistici. 【7-aebae5】【8-790011】
@@ -177,6 +173,7 @@ Rifugio noto per la posizione tranquilla e lontana dai principali percorsi turis
 ---
 
 ## Giorno 8 • 2 Settembre
+
 ### Ferrata Stella Alpina
 
 #### Ferrata ad anello
@@ -186,9 +183,11 @@ Rifugio noto per la posizione tranquilla e lontana dai principali percorsi turis
 - Rientro al Rifugio Scarpa
 
 #### Difficoltà
+
 EEA
 
 #### Pernottamento
+
 🏔️ Rifugio Scarpa Gurekian
 
 Lo Scarpa è la base naturale di accesso alla ferrata. 【7-aebae5】【9-5f343d】
@@ -196,6 +195,7 @@ Lo Scarpa è la base naturale di accesso alla ferrata. 【7-aebae5】【9-5f343d
 ---
 
 ## Giorno 9 • 3 Settembre
+
 ### Pale di San Lucano
 
 #### Trekking ad anello
@@ -207,9 +207,11 @@ Lo Scarpa è la base naturale di accesso alla ferrata. 【7-aebae5】【9-5f343d
 - Rifugio Scarpa
 
 #### Durata
+
 7-8 ore
 
 #### Pernottamento
+
 🏔️ Rifugio Scarpa Gurekian
 
 ✅ Nessun problema di recupero moto.
@@ -217,6 +219,7 @@ Lo Scarpa è la base naturale di accesso alla ferrata. 【7-aebae5】【9-5f343d
 ---
 
 ## Giorno 10 • 4 Settembre
+
 ### Grande Rientro Dolomitico
 
 #### Moto
@@ -237,29 +240,31 @@ Circa 320-350 km.
 
 # Elenco Pernottamenti
 
-| Data | Rifugio |
-|--------|----------|
-| 26 Agosto | Rifugio Lavaredo / Locatelli |
-| 27 Agosto | Rifugio Chiggiato |
-| 28 Agosto | Rifugio Chiggiato |
-| 29 Agosto | Rifugio Chiggiato |
-| 30 Agosto | Rifugio Giaf |
-| 31 Agosto | Rifugio Giaf |
-| 1 Settembre | Rifugio Scarpa Gurekian |
-| 2 Settembre | Rifugio Scarpa Gurekian |
-| 3 Settembre | Rifugio Scarpa Gurekian |
+| Data        | Rifugio                      |
+| ----------- | ---------------------------- |
+| 26 Agosto   | Rifugio Lavaredo / Locatelli |
+| 27 Agosto   | Rifugio Chiggiato            |
+| 28 Agosto   | Rifugio Chiggiato            |
+| 29 Agosto   | Rifugio Chiggiato            |
+| 30 Agosto   | Rifugio Giaf                 |
+| 31 Agosto   | Rifugio Giaf                 |
+| 1 Settembre | Rifugio Scarpa Gurekian      |
+| 2 Settembre | Rifugio Scarpa Gurekian      |
+| 3 Settembre | Rifugio Scarpa Gurekian      |
 
 ---
 
 # Contatti Rifugi
 
 ## Rifugio Lavaredo
+
 ☎ +39 0474 972505  
 🌐 https://www.rifugiolavaredo.com
 
 ---
 
 ## Rifugio Chiggiato
+
 ☎ +39 0435 366290  
 📧 info@rifugiochiggiato.it  
 🌐 https://www.rifugiochiggiato.it 【2-bdf8b2】【1-da2304】
@@ -267,6 +272,7 @@ Circa 320-350 km.
 ---
 
 ## Rifugio Giaf
+
 ☎ +39 338 7856338  
 📧 info@rifugiogiaf.it  
 🌐 https://www.rifugiogiaf.it 【4-b6588c】【5-c3c906】
@@ -274,6 +280,7 @@ Circa 320-350 km.
 ---
 
 ## Rifugio Scarpa Gurekian
+
 ☎ +39 331 3152963  
 📧 info@rifugioscarpa.com  
 🌐 https://www.rifugioscarpa.com 【7-aebae5】【9-5f343d】
@@ -291,4 +298,3 @@ Circa 320-350 km.
 7. Passo Sella
 
 ---
-
