@@ -2,26 +2,16 @@
 
 ## 26 Agosto - Bormio → Rifugio Auronzo
 
-### Percorso in moto
+- Trasferimento in moto da Bormio al Rifugio Auronzo.
+- Passeggiata panoramica alle Tre Cime nel pomeriggio.
 
-- Bormio
-- Passo Stelvio
-- Merano
-- Val Pusteria
-- Dobbiaco
-- Misurina
-- Strada panoramica delle Tre Cime
-- Rifugio Auronzo
-
-### Pernottamento
-
-**Rifugio Auronzo**
+**Pernottamento:** Rifugio Auronzo
 
 ---
 
 ## 27 Agosto - Ferrata De Luca - Innerkofler
 
-### Itinerario
+### Escursione
 
 - Rifugio Auronzo
 - Rifugio Locatelli
@@ -29,95 +19,104 @@
 - Cima Paterno
 - Ritorno al Rifugio Auronzo
 
-### Dati escursione
-
-- Difficoltà: EEA
-- Durata: 5-7 ore
-- Dislivello: circa 600 m
+**Difficoltà:** EEA  
+**Durata:** 5-7 ore
 
 ### Trasferimento
 
-Rifugio Auronzo → **B&B Lunga Via Delle Dolomiti**
+Rifugio Auronzo → B&B Lunga Via Delle Dolomiti
 
-### Pernottamento
-
-**B&B Lunga Via Delle Dolomiti**
+**Pernottamento:** B&B Lunga Via Delle Dolomiti
 
 ---
 
-## 28 Agosto - Trekking Rifugio Chiggiato e Col Negro
+## 28 Agosto - Rifugio Chiggiato e Col Negro
 
-### Escursione
+### Trekking
 
 - Salita al Rifugio Chiggiato
 - Proseguimento a Col Negro
 - Pranzo al Rifugio Chiggiato
 
-### Dati trekking
-
-- Difficoltà: E
-- Durata: 5-6 ore
-- Dislivello: 800-900 m
+**Durata:** 5-6 ore  
+**Difficoltà:** E
 
 ### Trasferimento
 
-Rifugio Chiggiato → **Campeggio Treinke Sauris**
+Verso Campeggio Treinke Sauris.
 
-### Pernottamento
-
-**Campeggio Treinke Sauris**
+**Pernottamento:** Campeggio Treinke Sauris
 
 ---
 
 ## 29 Agosto - Lago di Sauris e trasferimento a Enemonzo
 
-### Trekking consigliati nell'area del Lago di Sauris
+### Trekking consigliati nella zona del Lago di Sauris
 
-#### 1. Giro completo del Lago di Sauris
+1. Giro del Lago di Sauris (2-3 h)
+2. Sauris di Sotto - Sauris di Sopra (3-4 h)
+3. Malga Pieltinis (4-5 h)
+4. Monte Ruke (4-5 h)
 
-- Percorso ad anello attorno al lago
-- Sentieri e strade forestali panoramiche
-- Ideale come escursione rilassante
-
-**Durata:** 2-3 ore
-
-#### 2. Sentiero Lago di Sauris → Sauris di Sopra
-
-- Vista sul lago e sui borghi storici di Sauris
-- Possibilità di sosta nei punti panoramici
-
-**Durata:** 3-4 ore
-
-#### 3. Trekking alla Malga Pieltinis
-
-- Uno degli itinerari più belli della zona
-- Panorami sulle Alpi Carniche
-
-**Durata:** 4-5 ore
-
-#### 4. Monte Ruke
-
-- Escursione panoramica sopra il lago
-- Vista a 360° su Sauris e dintorni
-
-**Durata:** 4-5 ore
-
-### Trasferimento in moto
+### Trasferimento
 
 Sauris → Enemonzo
 
-### Pernottamento
-
-**Alla Pagoda**
-
-Via Maiaso 2
-33020 Enemonzo (UD)
+**Pernottamento:** Alla Pagoda  
+Via Maiaso 2, 33020 Enemonzo (UD)
 
 ---
 
-# Riepilogo
+## 30 Agosto - Ferrata Sartor al Monte Peralba
 
-- 26 Agosto: Bormio → Rifugio Auronzo
-- 27 Agosto: Ferrata De Luca - Innerkofler
-- 28 Agosto: Trekking Chiggiato e Col Negro, pernottamento a Sauris
-- 29 Agosto: Trekking al Lago di Sauris e trasferimento ad Enemonzo
+### Trasferimento in moto
+
+Enemonzo → Passo Monte Croce Carnico / area Peralba
+
+### Escursione
+
+**Ferrata Sartor al Peralba**
+
+- Itinerario alpino molto panoramico nelle Alpi Carniche
+- Passaggi attrezzati e tratti esposti
+- Splendide vedute su Italia e Austria
+
+**Difficoltà:** EEA  
+**Durata:** 6-8 ore  
+**Equipaggiamento:** casco, imbrago e kit ferrata
+
+### Rientro
+
+Rientro a Enemonzo.
+
+**Pernottamento:** Alla Pagoda  
+Via Maiaso 2, 33020 Enemonzo (UD)
+
+---
+
+## 31 Agosto - Relax alle Terme di Arta
+
+### Mattina
+
+Trasferimento da Enemonzo ad Arta Terme.
+
+### Attività
+
+- Percorso benessere
+- Piscine e area relax
+- Trattamenti termali (facoltativi)
+- Recupero dopo le giornate di trekking e ferrate
+
+### Fine itinerario
+
+Possibile rientro nel pomeriggio oppure prosecuzione del viaggio.
+
+---
+
+# Riepilogo pernottamenti
+
+- 26 Agosto: Rifugio Auronzo
+- 27 Agosto: B&B Lunga Via Delle Dolomiti
+- 28 Agosto: Campeggio Treinke Sauris
+- 29 Agosto: Alla Pagoda (1ª notte)
+- 30 Agosto: Alla Pagoda (2ª notte)
