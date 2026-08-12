@@ -86,6 +86,12 @@ https://www.booking.com/hotel/it/albergo-diffuso-sauris-in-la-maina.it.html
 
 ---
 
+---
+
+> Darivredere gli altri giorni
+
+---
+
 ## Giorno 4 • 29 Agosto
 
 ### Marmarole Sud
