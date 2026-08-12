@@ -1,315 +1,123 @@
-# Giro delle Dolomiti in Moto, Trekking e Ferrate
+# Tour Dolomiti in Moto, Trekking e Ferrate
 
-## 26 Agosto - 4 Settembre
+## 26 Agosto - Bormio → Rifugio Auronzo
 
-### Filosofia del viaggio
-
-- Partenza e arrivo a Bormio
-- Trasferimenti esclusivamente in moto
-- Avventura e divertimento in coppia
-
----
-
-# Itinerario Completo
-
-## Giorno 1 • 26 Agosto
-
-### Bormio → Tre Cime di Lavaredo
-
-Spostamento da Bormio a Misurina o dintorni
-
-5 ore
-
-#### Moto
+### Percorso in moto
 
 - Bormio
 - Passo Stelvio
+- Merano
 - Val Pusteria
 - Dobbiaco
 - Misurina
-- Parcheggio Rifugio Auronzo
+- Strada panoramica delle Tre Cime
+- Rifugio Auronzo
 
-#### Attività
+### Pernottamento
 
-Salita al rifugio e sistemazione.
-
-#### Pernottamento
-
-Rifugio Auronzo (100€ pagato tati-c + 100€ da dare in contanti)
+**Rifugio Auronzo**
 
 ---
 
-## Giorno 2 • 27 Agosto
+## 27 Agosto - Ferrata De Luca - Innerkofler
 
-### Ferrata De Luca - Innerkofler
+### Itinerario
 
-Ferrata (attacco si arriva in moto)
-7 ore
+- Rifugio Auronzo
+- Rifugio Locatelli
+- Gallerie della Grande Guerra
+- Cima Paterno
+- Ritorno al Rifugio Auronzo
 
-#### Ferrata
+### Dati escursione
 
-Percorso da xml
+- Difficoltà: EEA
+- Durata: 5-7 ore
+- Dislivello: circa 600 m
 
-#### Difficoltà
+### Trasferimento
 
-EEA
+Rifugio Auronzo → **B&B Lunga Via Delle Dolomiti**
 
-#### Moto e Pernottamento
+### Pernottamento
 
-1 ora e mezza
-Recupero moto al Rifugio Auronzo e trasferimento verso B&B solo camera: **Lunga Via Delle Dolomiti**
-Booking (110€ pagate da tati-d)
-
----
-
-## Giorno 3 • 28 Agosto
-
-### Marmarole Nord
-
-#### Trekking ad anello
-
-- Rifugio Chiggiato
-- Col Negro
-- Altro se abbiamo voglia
-
-#### Durata
-
-6 ore
-
-#### Moto e Pernottamento
-
-Moto 1.5 ore
-
-Rifugio Giaf o
-
-https://www.booking.com/hotel/it/albergo-diffuso-sauris-in-la-maina.it.html
+**B&B Lunga Via Delle Dolomiti**
 
 ---
 
----
+## 28 Agosto - Trekking Rifugio Chiggiato e Col Negro
 
-> Darivredere gli altri giorni
+### Escursione
 
----
+- Salita al Rifugio Chiggiato
+- Proseguimento a Col Negro
+- Pranzo al Rifugio Chiggiato
 
-## Giorno 4 • 29 Agosto
+### Dati trekking
 
-### Marmarole Sud
+- Difficoltà: E
+- Durata: 5-6 ore
+- Dislivello: 800-900 m
 
-#### Trekking ad anello
+### Trasferimento
 
-- Rifugio Chiggiato
-- Giro delle Forcelle
-- Forcella Marmarole
-- Sentieri dell'Alta Via n.5
-- Rientro al Rifugio Chiggiato
+Rifugio Chiggiato → **Campeggio Treinke Sauris**
 
-#### Durata
+### Pernottamento
 
-7-9 ore
-
-#### Pernottamento
-
-🏔️ Rifugio Chiggiato
-
-✅ Moto sempre disponibile al parcheggio di Praciadelan.
+**Campeggio Treinke Sauris**
 
 ---
 
-## Giorno 5 • 30 Agosto
+## 29 Agosto - Lago di Sauris e trasferimento a Enemonzo
 
-### Cadore → Dolomiti Friulane
+### Trekking consigliati nell'area del Lago di Sauris
 
-#### Discesa
+#### 1. Giro completo del Lago di Sauris
 
-- Rifugio Chiggiato
-- Praciadelan
+- Percorso ad anello attorno al lago
+- Sentieri e strade forestali panoramiche
+- Ideale come escursione rilassante
 
-#### Recupero Moto
+**Durata:** 2-3 ore
 
-#### Moto
+#### 2. Sentiero Lago di Sauris → Sauris di Sopra
 
-- Calalzo di Cadore
-- Sappada
-- Passo Cima Sappada
-- Forni di Sopra
+- Vista sul lago e sui borghi storici di Sauris
+- Possibilità di sosta nei punti panoramici
 
-#### Pernottamento
+**Durata:** 3-4 ore
 
-🏔️ Rifugio Giaf
+#### 3. Trekking alla Malga Pieltinis
 
-Situato nel Parco Naturale delle Dolomiti Friulane. 【4-b6588c】【5-c3c906】
+- Uno degli itinerari più belli della zona
+- Panorami sulle Alpi Carniche
 
----
+**Durata:** 4-5 ore
 
-## Giorno 6 • 31 Agosto
+#### 4. Monte Ruke
 
-### Anello del Cridola
+- Escursione panoramica sopra il lago
+- Vista a 360° su Sauris e dintorni
 
-#### Trekking
+**Durata:** 4-5 ore
 
-- Rifugio Giaf
-- Forcella Scodavacca
-- Forcella Urtisiel
-- Gruppo del Cridola
-- Rifugio Giaf
+### Trasferimento in moto
 
-#### Durata
+Sauris → Enemonzo
 
-7-8 ore
+### Pernottamento
 
-#### Pernottamento
+**Alla Pagoda**
 
-🏔️ Rifugio Giaf
-
-Le Dolomiti Friulane sono tra le zone più isolate e meno antropizzate dell'intero arco dolomitico. 【4-b6588c】【6-68c2d7】
+Via Maiaso 2
+33020 Enemonzo (UD)
 
 ---
 
-## Giorno 7 • 1 Settembre
+# Riepilogo
 
-### Friulane → Agner
-
-#### Moto
-
-- Forni di Sopra
-- Longarone
-- Agordo
-- Frassenè Agordino
-
-#### Salita al Rifugio
-
-#### Pernottamento
-
-🏔️ Rifugio Scarpa Gurekian
-
-Rifugio noto per la posizione tranquilla e lontana dai principali percorsi turistici. 【7-aebae5】【8-790011】
-
----
-
-## Giorno 8 • 2 Settembre
-
-### Ferrata Stella Alpina
-
-#### Ferrata ad anello
-
-- Rifugio Scarpa
-- Ferrata Stella Alpina
-- Rientro al Rifugio Scarpa
-
-#### Difficoltà
-
-EEA
-
-#### Pernottamento
-
-🏔️ Rifugio Scarpa Gurekian
-
-Lo Scarpa è la base naturale di accesso alla ferrata. 【7-aebae5】【9-5f343d】
-
----
-
-## Giorno 9 • 3 Settembre
-
-### Pale di San Lucano
-
-#### Trekking ad anello
-
-- Rifugio Scarpa
-- Forcella Besausega
-- Sentieri dell'Agner
-- Pale di San Lucano
-- Rifugio Scarpa
-
-#### Durata
-
-7-8 ore
-
-#### Pernottamento
-
-🏔️ Rifugio Scarpa Gurekian
-
-✅ Nessun problema di recupero moto.
-
----
-
-## Giorno 10 • 4 Settembre
-
-### Grande Rientro Dolomitico
-
-#### Moto
-
-- Frassenè Agordino
-- Passo Duran
-- Alleghe
-- Passo Fedaia
-- Passo Pordoi
-- Passo Gardena
-- Passo Sella
-- Passo Stelvio
-- Bormio
-
-Circa 320-350 km.
-
----
-
-# Elenco Pernottamenti
-
-| Data        | Rifugio                      |
-| ----------- | ---------------------------- |
-| 26 Agosto   | Rifugio Lavaredo / Locatelli |
-| 27 Agosto   | Rifugio Chiggiato            |
-| 28 Agosto   | Rifugio Chiggiato            |
-| 29 Agosto   | Rifugio Chiggiato            |
-| 30 Agosto   | Rifugio Giaf                 |
-| 31 Agosto   | Rifugio Giaf                 |
-| 1 Settembre | Rifugio Scarpa Gurekian      |
-| 2 Settembre | Rifugio Scarpa Gurekian      |
-| 3 Settembre | Rifugio Scarpa Gurekian      |
-
----
-
-# Contatti Rifugi
-
-## Rifugio Lavaredo
-
-☎ +39 0474 972505  
-🌐 https://www.rifugiolavaredo.com
-
----
-
-## Rifugio Chiggiato
-
-☎ +39 0435 366290  
-📧 info@rifugiochiggiato.it  
-🌐 https://www.rifugiochiggiato.it 【2-bdf8b2】【1-da2304】
-
----
-
-## Rifugio Giaf
-
-☎ +39 338 7856338  
-📧 info@rifugiogiaf.it  
-🌐 https://www.rifugiogiaf.it 【4-b6588c】【5-c3c906】
-
----
-
-## Rifugio Scarpa Gurekian
-
-☎ +39 331 3152963  
-📧 info@rifugioscarpa.com  
-🌐 https://www.rifugioscarpa.com 【7-aebae5】【9-5f343d】
-
----
-
-# Passi Motociclistici
-
-1. Passo Stelvio
-2. Passo Cima Sappada
-3. Passo Duran
-4. Passo Fedaia
-5. Passo Pordoi
-6. Passo Gardena
-7. Passo Sella
-
----
+- 26 Agosto: Bormio → Rifugio Auronzo
+- 27 Agosto: Ferrata De Luca - Innerkofler
+- 28 Agosto: Trekking Chiggiato e Col Negro, pernottamento a Sauris
+- 29 Agosto: Trekking al Lago di Sauris e trasferimento ad Enemonzo
