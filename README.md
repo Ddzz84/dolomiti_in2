@@ -1,122 +1,223 @@
-# Tour Dolomiti in Moto, Trekking e Ferrate
+# 🏍️ Tour Dolomiti 2026
 
-## 26 Agosto - Bormio → Rifugio Auronzo
+![schema viaggio](./schema.svg)
 
-- Trasferimento in moto da Bormio al Rifugio Auronzo.
-- Passeggiata panoramica alle Tre Cime nel pomeriggio.
+## Trekking, Ferrate e Mototurismo
 
-**Pernottamento:** Rifugio Auronzo
+# 📅 26 Agosto
+
+## Bormio → Rifugio Auronzo
+
+### 🏍️ Trasferimento Moto
+
+- Distanza: ~240 km
+- Tempo di percorrenza: 5-6 ore
+
+### 🥾 Attività
+
+Passeggiata panoramica alle Tre Cime:
+
+- Rifugio Auronzo
+- Forcella Lavaredo
+- Panorama al tramonto
+
+**Durata:** 1h30 - 2h
+
+> ## 🌙 PERNOTTAMENTO
+>
+> ### Rifugio Auronzo
+>
+> 📍 Tre Cime di Lavaredo
+> ⛰️ Quota: 2.333 m
+
+### 💰 Spese
+
+- Pernottamento: € **\_\_**
 
 ---
 
-## 27 Agosto - Ferrata De Luca - Innerkofler
+# 📅 27 Agosto
 
-### Escursione
+## Ferrata De Luca - Innerkofler
+
+### 🥾 Ferrata
+
+- Durata: 5-7 ore
+- Dislivello: 600 m
+- Difficoltà: EEA
+
+Percorso:
 
 - Rifugio Auronzo
 - Rifugio Locatelli
 - Gallerie della Grande Guerra
 - Cima Paterno
-- Ritorno al Rifugio Auronzo
+- Rientro al Rifugio Auronzo
 
-**Difficoltà:** EEA  
-**Durata:** 5-7 ore
+### 🏍️ Trasferimento
 
-### Trasferimento
+Rifugio Auronzo → B&B Lunga Via delle Dolomiti
 
-Rifugio Auronzo → B&B Lunga Via Delle Dolomiti
+**Tempo:** 1h - 1h30
 
-**Pernottamento:** B&B Lunga Via Delle Dolomiti
+> ## 🌙 PERNOTTAMENTO
+>
+> ### B&B Lunga Via delle Dolomiti
 
----
+### 💰 Spese
 
-## 28 Agosto - Rifugio Chiggiato e Col Negro
-
-### Trekking
-
-- Salita al Rifugio Chiggiato
-- Proseguimento a Col Negro
-- Pranzo al Rifugio Chiggiato
-
-**Durata:** 5-6 ore  
-**Difficoltà:** E
-
-### Trasferimento
-
-Verso Campeggio Treinke Sauris.
-
-**Pernottamento:** Campeggio Treinke Sauris
+- Pernottamento: € **\_\_**
 
 ---
 
-## 29 Agosto - Lago di Sauris e trasferimento a Enemonzo
+# 📅 28 Agosto
 
-### Trekking consigliati nella zona del Lago di Sauris
+## Rifugio Chiggiato e Col Negro
 
-1. Giro del Lago di Sauris (2-3 h)
-2. Sauris di Sotto - Sauris di Sopra (3-4 h)
-3. Malga Pieltinis (4-5 h)
-4. Monte Ruke (4-5 h)
+### 🥾 Trekking
 
-### Trasferimento
+- Salita al Rifugio Chiggiato: 2h
+- Chiggiato → Col Negro: 1h30
+- Dislivello: 800-900 m
+- Durata complessiva: 5-6 ore
+
+### 🍝 Pranzo
+
+Rifugio Chiggiato
+
+### 🏍️ Trasferimento
+
+Chiggiato → Sauris
+
+**Tempo:** circa 1h30
+
+> ## 🌙 PERNOTTAMENTO
+>
+> ### Campeggio Treinke Sauris
+>
+> 📍 Sauris
+
+### 💰 Spese
+
+- Campeggio: € **\_\_**
+
+---
+
+# 📅 29 Agosto
+
+## Lago di Sauris
+
+### 🥾 Trekking Possibili
+
+#### 1. Giro del Lago di Sauris
+
+- Durata: 2-3 ore
+- Difficoltà: T
+
+#### 2. Sauris di Sopra ↔ Sauris di Sotto
+
+- Durata: 3-4 ore
+- Difficoltà: E
+
+#### 3. Malga Pieltinis
+
+- Durata: 4-5 ore
+- Difficoltà: E
+
+#### 4. Monte Ruke
+
+- Durata: 4-5 ore
+- Difficoltà: E
+
+### 🏍️ Trasferimento
 
 Sauris → Enemonzo
 
-**Pernottamento:** Alla Pagoda  
-Via Maiaso 2, 33020 Enemonzo (UD)
+**Tempo:** 45 minuti
+
+> ## 🌙 PERNOTTAMENTO (1ª NOTTE)
+>
+> ### Alla Pagoda
+>
+> 📍 Via Maiaso 2
+> 33020 Enemonzo (UD)
+
+### 💰 Spese
+
+- Pernottamento: € **\_\_**
 
 ---
 
-## 30 Agosto - Ferrata Sartor al Monte Peralba
+# 📅 30 Agosto
 
-### Trasferimento in moto
+## Ferrata Sartor al Monte Peralba
 
-Enemonzo → Passo Monte Croce Carnico / area Peralba
+### 🏍️ Trasferimento
 
-### Escursione
+Enemonzo → Monte Peralba
 
-**Ferrata Sartor al Peralba**
+**Tempo:** 1h15
 
-- Itinerario alpino molto panoramico nelle Alpi Carniche
-- Passaggi attrezzati e tratti esposti
-- Splendide vedute su Italia e Austria
+### 🥾 Ferrata Sartor
 
-**Difficoltà:** EEA  
-**Durata:** 6-8 ore  
-**Equipaggiamento:** casco, imbrago e kit ferrata
+- Durata: 6-8 ore
+- Difficoltà: EEA
+- Kit ferrata obbligatorio
 
-### Rientro
+### 💰 Spese
 
-Rientro a Enemonzo.
+- Colazione: € **\_\_**
+- Pranzo: € **\_\_**
+- Cena: € **\_\_**
+- Carburante: € **\_\_**
 
-**Pernottamento:** Alla Pagoda  
-Via Maiaso 2, 33020 Enemonzo (UD)
-
----
-
-## 31 Agosto - Relax alle Terme di Arta
-
-### Mattina
-
-Trasferimento da Enemonzo ad Arta Terme.
-
-### Attività
-
-- Percorso benessere
-- Piscine e area relax
-- Trattamenti termali (facoltativi)
-- Recupero dopo le giornate di trekking e ferrate
-
-### Fine itinerario
-
-Possibile rientro nel pomeriggio oppure prosecuzione del viaggio.
+> ## 🌙 PERNOTTAMENTO (2ª NOTTE)
+>
+> ### Alla Pagoda
+>
+> 📍 Via Maiaso 2
+> 33020 Enemonzo (UD)
 
 ---
 
-# Riepilogo pernottamenti
+# 📅 31 Agosto
 
-- 26 Agosto: Rifugio Auronzo
-- 27 Agosto: B&B Lunga Via Delle Dolomiti
-- 28 Agosto: Campeggio Treinke Sauris
-- 29 Agosto: Alla Pagoda (1ª notte)
-- 30 Agosto: Alla Pagoda (2ª notte)
+## Relax alle Terme di Arta
+
+### 🏍️ Trasferimento
+
+Enemonzo → Arta Terme
+
+**Tempo:** 20 minuti
+
+### ♨️ Attività
+
+- Area wellness
+- Piscine termali
+- Relax e recupero
+
+### 💰 Spese
+
+- Ingresso terme: € **\_\_**
+- Pranzo: € **\_\_**
+
+---
+
+# 🌙 RIEPILOGO PERNOTTAMENTI
+
+| Data      | Struttura                       |
+| --------- | ------------------------------- |
+| 26 Agosto | 🏔️ Rifugio Auronzo              |
+| 27 Agosto | 🛏️ B&B Lunga Via delle Dolomiti |
+| 28 Agosto | ⛺ Campeggio Treinke Sauris     |
+| 29 Agosto | 🏨 Alla Pagoda                  |
+| 30 Agosto | 🏨 Alla Pagoda                  |
+
+# 🗺️ GPX
+
+- day1_panorama.gpx
+- day2_innerkofler.gpx
+- day3_chiggiato.gpx
+- day4_sauris.gpx
+- day5_peralba.gpx
+- day6_arta.gpx
