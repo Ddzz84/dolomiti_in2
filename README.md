@@ -203,6 +203,11 @@ Enemonzo → Arta Terme
 
 ---
 
+# 📅 01 Settembre
+val resia ecc guardare tuoi appunti
+
+nel ritorno fermarsi al campanile sommerso
+
 # 🌙 RIEPILOGO PERNOTTAMENTI
 
 | Data      | Struttura                       |
