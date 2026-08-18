@@ -204,9 +204,64 @@ Enemonzo → Arta Terme
 ---
 
 # 📅 01 Settembre
-val resia ecc guardare tuoi appunti
 
-nel ritorno fermarsi al campanile sommerso
+Val Resia → Val di Non
+
+- Visita di Stolvizza (Val Resia), il borgo più caratteristico della valle.
+- Trekking Ta Lipa Pot (2h50 circa).
+- Trasferimento in moto verso la Val di Non.
+  Pernottamento a Fondo / Cavareno.
+  es: https://www.airbnb.it/rooms/1682556380209920837?check_in=2026-09-01&check_out=2026-09-02&guests=1&adults=2&s=67&unique_share_id=a4b951fe-e526-4f28-accd-c05f996fc19a
+  o https://www.booking.com/Share-3G2uGUp
+
+📅 2 settembre
+Lago di Tovel
+Opzione Trekking
+
+Lago di Tovel + Rifugio Tuena
+
+5-6 h
+Ambiente alpino poco affollato
+Alternativa
+
+Giro completo del Lago di Tovel
+
+2 h
+Trekking rilassante
+
+🌙 Pernottamento in Val di Non
+
+📅 3 settembre
+Val di Non → Lago di Resia
+🏍️ Trasferimento
+
+Val di Non → Passo Mendola → Val Venosta → Curon Venosta
+
+circa 2h30 di moto
+strada molto panoramica
+📸 Visita
+
+Campanile Sommerso di Curon Venosta
+
+simbolo dell'Alto Adige
+possibilità di passeggiata lungolago
+ottimi punti fotografici al tramonto
+🥾 Trekking consigliati
+Giro del Lago di Resia
+15 km
+3-4 ore
+facile
+Belvedere di Curon
+2 ore
+vista sul campanile e sul lago
+
+🌙 Pernottamento consigliato:
+
+Curon Venosta
+Resia
+San Valentino alla Muta
+📅 4 settembre
+Rientro finale
 
 # 🌙 RIEPILOGO PERNOTTAMENTI
 

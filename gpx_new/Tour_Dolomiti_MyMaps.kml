@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<name>Tour Dolomiti 2026</name>
+
+<Folder><name>Pernottamenti</name>
+<Placemark><name>Rifugio Auronzo</name><Point><coordinates>12.295833,46.612221,0</coordinates></Point></Placemark>
+<Placemark><name>Campeggio Treinke Sauris</name><Point><coordinates>12.708,46.466,0</coordinates></Point></Placemark>
+<Placemark><name>Alla Pagoda Enemonzo</name><Point><coordinates>12.879,46.410,0</coordinates></Point></Placemark>
+</Folder>
+
+<Folder><name>Ferrate</name>
+<Placemark><name>Ferrata De Luca Innerkofler</name><Point><coordinates>12.303,46.618,0</coordinates></Point></Placemark>
+<Placemark><name>Ferrata Sartor Peralba</name><Point><coordinates>12.692,46.604,0</coordinates></Point></Placemark>
+<Placemark><name>Ferrata Cassiopea</name><Point><coordinates>12.555,46.378,0</coordinates></Point></Placemark>
+</Folder>
+
+<Folder><name>Trekking</name>
+<Placemark><name>Tre Cime di Lavaredo</name><Point><coordinates>12.300,46.618,0</coordinates></Point></Placemark>
+<Placemark><name>Rifugio Locatelli</name><Point><coordinates>12.306,46.625,0</coordinates></Point></Placemark>
+<Placemark><name>Rifugio Chiggiato</name><Point><coordinates>12.347515,46.482815,0</coordinates></Point></Placemark>
+<Placemark><name>Col Negro</name><Point><coordinates>12.350,46.490,0</coordinates></Point></Placemark>
+<Placemark><name>Lago di Sauris</name><Point><coordinates>12.705,46.465,0</coordinates></Point></Placemark>
+<Placemark><name>Malga Pieltinis</name><Point><coordinates>12.741,46.488,0</coordinates></Point></Placemark>
+<Placemark><name>Monte Ruke</name><Point><coordinates>12.730,46.475,0</coordinates></Point></Placemark>
+<Placemark><name>Rifugio Flaiban Pacherini</name><Point><coordinates>12.541,46.403,0</coordinates></Point></Placemark>
+<Placemark><name>Val Alba</name><Point><coordinates>13.180,46.405,0</coordinates></Point></Placemark>
+<Placemark><name>Alta Via Resiana</name><Point><coordinates>13.298,46.373,0</coordinates></Point></Placemark>
+</Folder>
+
+<Folder><name>Relax</name>
+<Placemark><name>Terme di Arta</name><Point><coordinates>13.019,46.486,0</coordinates></Point></Placemark>
+</Folder>
+
+</Document>
+</kml>
