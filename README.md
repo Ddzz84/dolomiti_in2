@@ -152,6 +152,10 @@ Sauris → Enemonzo
 
 ## Ferrata Sartor al Monte Peralba
 
+attacco (gpx)
+
+> https://maps.google.com/maps?daddr=46.62029%2C+12.71606
+
 ### 🏍️ Trasferimento
 
 Enemonzo → Monte Peralba
@@ -182,34 +186,7 @@ Enemonzo → Monte Peralba
 
 # 📅 31 Agosto
 
-## Relax alle Terme di Arta
-
-### 🏍️ Trasferimento
-
-Enemonzo → Arta Terme
-
-**Tempo:** 20 minuti
-
-### ♨️ Attività
-
-- Area wellness
-- Piscine termali
-- Relax e recupero
-
-### 💰 Spese
-
-- Ingresso terme: € **\_\_**
-- Pranzo: € **\_\_**
-
----
-
-# 📅 1 Settembre
-
-## Val Resia → Brunico
-
-### 🌄 Mattina
-
-**Stolvizza (Val Resia)**
+### Stolvizza (Val Resia)
 
 - Visita del borgo storico resiano, il più rappresentativo della valle.
 - Trekking **Ta Lipa Pot**
@@ -217,6 +194,13 @@ Enemonzo → Arta Terme
   - 2h50
   - dislivello 200 m
   - percorso ad anello tra cascate, passerelle e panorami sul Monte Canin
+
+### 🏍️ Trasferimento
+
+### 💰 Spese
+
+- Ingresso terme: € **\_\_**
+- Pranzo: € **\_\_**
 
 ### 🏍️ Trasferimento
 
@@ -233,7 +217,7 @@ Sappada
 ↓
 San Candido
 ↓
-Brunico
+Vicino Brunico
 ```
 
 - circa 3 ore di guida
@@ -248,11 +232,12 @@ Brunico
 
 ### 🌙 Pernottamento
 
-**Brunico**
+> **Tree Tent Ombretta Experience**
+> Località Malga Ciapela, 32023 Rocca Pietore BL, Italy
 
 ---
 
-# 📅 2 Settembre
+# 📅 1 Settembre
 
 ## Brunico → Lago di Tovel → Val di Non
 
@@ -297,7 +282,7 @@ Lago di Tovel
 
 ---
 
-# 📅 3 Settembre
+# 📅 2 Settembre
 
 ## Val di Non → Lago di Resia → Bormio
 
@@ -339,13 +324,15 @@ Bormio
 
 # 🌙 RIEPILOGO PERNOTTAMENTI
 
-| Data      | Struttura                       |
-| --------- | ------------------------------- |
-| 26 Agosto | 🏔️ Rifugio Auronzo              |
-| 27 Agosto | 🛏️ B&B Lunga Via delle Dolomiti |
-| 28 Agosto | ⛺ Campeggio Treinke Sauris     |
-| 29 Agosto | 🏨 Alla Pagoda                  |
-| 30 Agosto | 🏨 Alla Pagoda                  |
+| Data      | Struttura                        |
+| --------- | -------------------------------- |
+| 26 Agosto | 🏔️ Rifugio Auronzo               |
+| 27 Agosto | 🛏️ B&B Lunga Via delle Dolomiti  |
+| 28 Agosto | ⛺ Campeggio Treinke Sauris      |
+| 29 Agosto | 🏨 Alla Pagoda                   |
+| 30 Agosto | 🏨 Alla Pagoda                   |
+| 31 Agosto | ⛺ Tree Tent Ombretta Experience |
+| 01 Agosto | ??                               |
 
 # 🗺️ GPX
 
