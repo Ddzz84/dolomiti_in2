@@ -27,6 +27,7 @@
 ### Varie
 
 - Kit primo soccorso
+- Bastoncini
 - Borracce
 - Camel
 - Crema crema solare
