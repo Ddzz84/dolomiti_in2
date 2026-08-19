@@ -203,65 +203,139 @@ Enemonzo → Arta Terme
 
 ---
 
-# 📅 01 Settembre
+# 📅 1 Settembre
 
-Val Resia → Val di Non
+## Val Resia → Brunico
 
-- Visita di Stolvizza (Val Resia), il borgo più caratteristico della valle.
-- Trekking Ta Lipa Pot (2h50 circa).
-- Trasferimento in moto verso la Val di Non.
-  Pernottamento a Fondo / Cavareno.
-  es: https://www.airbnb.it/rooms/1682556380209920837?check_in=2026-09-01&check_out=2026-09-02&guests=1&adults=2&s=67&unique_share_id=a4b951fe-e526-4f28-accd-c05f996fc19a
-  o https://www.booking.com/Share-3G2uGUp
+### 🌄 Mattina
 
-📅 2 settembre
+**Stolvizza (Val Resia)**
+
+- Visita del borgo storico resiano, il più rappresentativo della valle.
+- Trekking **Ta Lipa Pot**
+  - 8,3 km
+  - 2h50
+  - dislivello 200 m
+  - percorso ad anello tra cascate, passerelle e panorami sul Monte Canin
+
+### 🏍️ Trasferimento
+
+```text
+Stolvizza
+↓
+Resiutta
+↓
+Tolmezzo
+↓
+Forni Avoltri
+↓
+Sappada
+↓
+San Candido
+↓
+Brunico
+```
+
+- circa 3 ore di guida
+- percorso molto panoramico
+
+### 🌆 Pomeriggio a Brunico
+
+- Centro storico
+- Via Centrale
+- Castello di Brunico
+- Messner Mountain Museum Ripa
+
+### 🌙 Pernottamento
+
+**Brunico**
+
+---
+
+# 📅 2 Settembre
+
+## Brunico → Lago di Tovel → Val di Non
+
+### 🏍️ Trasferimento
+
+```text
+Brunico
+↓
+Bressanone
+↓
+Passo delle Palade
+↓
+Val di Non
+↓
 Lago di Tovel
-Opzione Trekking
+```
 
-Lago di Tovel + Rifugio Tuena
+### 🥾 Trekking
 
-5-6 h
-Ambiente alpino poco affollato
-Alternativa
+#### Opzione A
 
-Giro completo del Lago di Tovel
+**Giro del Lago di Tovel**
 
-2 h
-Trekking rilassante
+- 2 ore
+- facile
 
-🌙 Pernottamento in Val di Non
+#### Opzione B
 
-📅 3 settembre
-Val di Non → Lago di Resia
-🏍️ Trasferimento
+**Rifugio Tuena**
 
-Val di Non → Passo Mendola → Val Venosta → Curon Venosta
+- 5-6 ore
+- panoramico
+- poco frequentato
 
-circa 2h30 di moto
-strada molto panoramica
-📸 Visita
+### 🌙 Pernottamento
 
-Campanile Sommerso di Curon Venosta
+**Val di Non**
 
-simbolo dell'Alto Adige
-possibilità di passeggiata lungolago
-ottimi punti fotografici al tramonto
-🥾 Trekking consigliati
-Giro del Lago di Resia
-15 km
-3-4 ore
-facile
-Belvedere di Curon
-2 ore
-vista sul campanile e sul lago
+- Fondo
+- Cavareno
+- Romeno
 
-🌙 Pernottamento consigliato:
+---
 
+# 📅 3 Settembre
+
+## Val di Non → Lago di Resia → Bormio
+
+### 🏍️ Percorso panoramico consigliato
+
+```text
+Val di Non
+↓
+Passo della Mendola
+↓
+Merano
+↓
+Val Venosta
+↓
 Curon Venosta
-Resia
-San Valentino alla Muta
-📅 4 settembre
-Rientro finale
+↓
+Lago di Resia
+↓
+Passo dello Stelvio
+↓
+Bormio
+```
+
+### 📸 Tappa principale
+
+**Campanile Sommerso di Curon Venosta**
+
+- passeggiata lungolago
+- punti fotografici sul campanile
+- visita del borgo di Curon
+
+### 🥾 Possibile passeggiata
+
+**Giro parziale del Lago di Resia**
+
+- 1-2 ore
+- facile
+- ottimi panorami
 
 # 🌙 RIEPILOGO PERNOTTAMENTI
 
