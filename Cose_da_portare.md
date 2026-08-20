@@ -4,9 +4,21 @@
 
 - costume
 
+### Bagno
+
+- telo/asciugamani
+- spazzolino
+- dentifricio
+- PER CARO:
+   - boccetto lenti
+   - liquido lenti
+   - occhiali
+   - bite
+
 ### Ferrata
 
-- Imbrago Casco
+- Imbrago
+- Casco
 - Kit ferrata
 
 ### Tenda / Rifugio
@@ -23,6 +35,7 @@
 - Guscio
 - Gilet
 - Cappellino
+- cose per la sera perché si uscirà a cena ogni tanto 
 
 ### Varie
 
@@ -32,3 +45,6 @@
 - Camel
 - Crema crema solare
 - Occhiali sole
+- caricatori
+- powerbank
+
