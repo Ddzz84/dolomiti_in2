@@ -9,6 +9,8 @@
 - telo/asciugamani
 - spazzolino
 - dentifricio
+- shampino
+- selviettine culetto
 - PER CARO:
    - boccetto lenti
    - liquido lenti
@@ -29,13 +31,14 @@
 
 - Calze 4
 - Pantaloni trekking 2
-- Magliette trekking 3
+- Magliette trekking 3 (una maniche lunghe?)
 - Calze trekking 3
 - Felpa
 - Guscio
 - Gilet
 - Cappellino
-- cose per la sera perché si uscirà a cena ogni tanto 
+- cose per la sera perché si uscirà a cena ogni tanto
+- termica
 
 ### Varie
 
