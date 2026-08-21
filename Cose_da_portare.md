@@ -53,4 +53,5 @@
 - caricatori
 - powerbank
 - medicine: gentalin e buscopan
+   - PER TATI C.: folina e cilodex
 
