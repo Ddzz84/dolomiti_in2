@@ -54,6 +54,7 @@
 - Occhiali sole
 - caricatori
 - powerbank
+- fazzoletti
 - medicine: gentalin e buscopan
    - PER TATI C.: folina e cilodex
 
