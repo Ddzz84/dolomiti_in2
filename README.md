@@ -275,10 +275,7 @@ Lago di Tovel
 ### 🌙 Pernottamento
 
 **Val di Non**
-
-- Fondo
-- Cavareno
-- Romeno
+ >hotel rosa - Via De Zinis 31, 38011 Cavareno, Italy
 
 ---
 
