@@ -52,4 +52,5 @@
 - Occhiali sole
 - caricatori
 - powerbank
+- medicine: gentalin e buscopan
 
