@@ -11,7 +11,7 @@
 - dentifricio
 - shampino
 - selviettine culetto
-- PER CARO:
+- PER Tati C.:
    - boccetto lenti
    - liquido lenti
    - occhiali
