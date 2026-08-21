@@ -39,6 +39,8 @@
 - Cappellino
 - cose per la sera perché si uscirà a cena ogni tanto
 - termica
+- scalda collo più o meno pesante
+- guantini più o meno pesanti
 
 ### Varie
 
