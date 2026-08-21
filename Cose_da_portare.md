@@ -11,6 +11,7 @@
 - dentifricio
 - shampino
 - selviettine culetto
+- ciabatte
 - PER Tati C.:
    - boccetto lenti
    - liquido lenti
