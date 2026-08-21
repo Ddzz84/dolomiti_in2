@@ -41,6 +41,7 @@
 - termica
 - scalda collo più o meno pesante
 - guantini più o meno pesanti
+- pigiama
 
 ### Varie
 
