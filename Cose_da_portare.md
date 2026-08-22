@@ -23,6 +23,7 @@
 - Imbrago
 - Casco
 - Kit ferrata
+- guantini
 
 ### Tenda / Rifugio
 
